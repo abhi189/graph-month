@@ -1,5 +1,5 @@
 {
-    month: {
+    "month": {
     "reportByYear": [],
     "reportByMonth": [{
         "demand": 3.11,
@@ -315,10 +315,10 @@
     "reportByDay": [],
     "reportByHour": []
     },
-    year: {
+    "year": {
 
     },
-    day: {
+    "day": {
         
     "reportByYear": [],
     "reportByMonth": [],
@@ -589,7 +589,7 @@
     }],
     "reportByHour": []
     },
-    hour: {
+    "hour": {
 
     }
 }
